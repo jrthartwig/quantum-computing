@@ -1,0 +1,3 @@
+Learning about Azure Quantum Computing with Q# following this tutorial... 
+
+https://learn.microsoft.com/en-us/training/paths/quantum-computing-fundamentals/
